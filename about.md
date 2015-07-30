@@ -9,7 +9,7 @@ I'm Gabe.
 
 I've been involved in several projects and assisted corporations, startups and high-profile individuals with software design, management and development.
 
-I also try to [blog](http://gaapt.github.io/) sometimes.
+I also try to [blog](http://gaapt.github.io/).
 
 
 ### Technologies

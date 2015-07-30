@@ -14,12 +14,12 @@
 /**************/
 
 html {
-  font-size: 10%;
+  font-size: 100%;
 }
 
 body {
 	background: $white;
-  font: 22px/1.5 $helvetica;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -45,22 +45,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 18px;
   color: $gray;
 }
 
