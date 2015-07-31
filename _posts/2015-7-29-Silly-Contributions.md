@@ -13,7 +13,7 @@ But, all of a sudden,  I thought it would be nice to start a blog.  I mean,  why
 
 Then, while typing my first post on LibreOffice,  I didn't have Lato( my all time favorite font). I googled the process of installing a Google Font on Ubuntu and it took me ~15 minutes to set everything up. 
 
-Still,  how cool would it be to install fonts with just one command? 
+Still,  how cool would it be to [install fonts with just one command](https://github.com/gaapt/clifont/)? 
 
 I couldn't find anything on Github. Even if it existed, _it's just gonna take a minute._
 
