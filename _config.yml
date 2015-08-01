@@ -69,9 +69,9 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - CNAME
+#exclude:
+#    - Gemfile
+#    - Gemfile.lock
+#    - LICENSE
+#    - README.md
+#    - CNAME
