@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Silly contributions
+categories: essay
 ---
 
 
