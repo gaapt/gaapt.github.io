@@ -26,7 +26,7 @@ In the end, different ideas are not 'enjoyable' at first glance. It takes too mu
 
 Still, it's unclear whether other business models couldn't outpace that business model. Suggesting diverse content could produce longer user sessions and avoid users to get bored. Shouldn't websites give it a shot? 
 
-With a Risk-Aware Recommender System, like [DRARS](https://tel.archives-ouvertes.fr/tel-01026136/document), users could carefully be exposed to different perspectives, spend more time learning about these and, consequently, help websites make more money. Literally everybody wins
+With a Risk-Aware Recommender System, like [DRARS](https://tel.archives-ouvertes.fr/tel-01026136/document), users could carefully be exposed to different perspectives, spend more time learning about these and, consequently, help websites make more money. Literally everybody wins.
 
 
 ###Unknown Path
