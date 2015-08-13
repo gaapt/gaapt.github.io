@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We need different content
+title: We want it boring
 ---
 
 
