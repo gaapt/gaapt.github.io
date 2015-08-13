@@ -14,11 +14,12 @@ I also try to [blog](http://gaapt.github.io/).
 ### Technologies
 Having worked both in frontend and backend systems, I have focused on Ruby on Rails, JavaScript, Python and other related technologies.
 
-### Open Source Projects
+### Miscellaneous Projects
 + [nitx](https://github.com/gaapt/nitx) - Open source voting platform
 + [clifont](https://github.com/gaapt/clifont) - Install Google Fonts in one command
 + [pragmatik](https://github.com/gaapt/pragmatik) - Ruby on Rails ready-to-go app 
 + [sparktwitteranl](https://github.com/gaapt/sparktwitteranl) - Twitter Analysis with Apache Spark
++ [Nice Projects](http://projmanagement.meteor.com/) - Simple Project Management Meteor app
 
 ### Want to ask something?
 Feel free to contact me at [gaberpt@gmail.com](mailto:gaberpt@gmail.com)
