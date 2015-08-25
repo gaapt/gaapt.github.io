@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers have it better
+title: Why Programmers Thrive
 ---
 
 
