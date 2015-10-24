@@ -22,4 +22,4 @@ Having worked both in frontend and backend systems, I have focused on Ruby on Ra
 + [Nice Projects](http://projmanagement.meteor.com/) - Simple Project Management Meteor app
 
 ### Want to ask something?
-Feel free to contact me at [gaberpt@gmail.com](mailto:gaberpt@gmail.com)
+Feel free to contact me at [gabrpt@gmail.com](mailto:gaberpt@gmail.com)
