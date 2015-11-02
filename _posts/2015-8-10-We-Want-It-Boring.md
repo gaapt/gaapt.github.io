@@ -16,7 +16,7 @@ Once, there was **the** guy that would change your mind.  First, his idea is rid
 
 The Web does the exact opposite of it. 
 
-Both collaborative filtering (based on similarity with other users) and content-based filtering (based on historical activity of a single user) display the same ideas all the time. You buy/watch/share what you "enjoy" and the website makes a few cents. 
+Both collaborative filtering and content-based filtering display the same ideas at all times. You buy/watch/share what you "enjoy" and the website makes a few cents. 
 
 ###What about different?
 
