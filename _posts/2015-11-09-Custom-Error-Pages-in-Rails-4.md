@@ -2,7 +2,10 @@
 layout: post
 title: Custom Error Pages in Rails 4
 ---
-Before anything, we must delete the default error pages:
+
+Sometimes, it may be interesting to replace the static HTML pages in the `public` directory for dynamic views and all their benefits.
+
+To get started , we must delete the default error pages:
 
 ```bash
 rm public/404.html
