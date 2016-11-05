@@ -24,7 +24,8 @@ You may be wondering if it’s not possible to just declare the constant to be p
 class User
   private
   NUMBER = 100
-end```
+end
+```
 
 running it:
 
@@ -34,16 +35,20 @@ Bummer. It’s still accessible… So, what do we do?
 
 That's where private_constant comes up:
 
-```# user.rb
+```
+# user.rb
 class User
   NUMBER = 100
   private_constant :NUMBER
-end```
+end
+```
 
 Let’s test if it’s still accessible: 
 
-```User::NUMBER
-# => NameError: private constant User::NUMBER referenced```
+```
+User::NUMBER
+# => NameError: private constant User::NUMBER referenced
+```
 
 Nope. We've just made it that constant private. That’s it.
 
