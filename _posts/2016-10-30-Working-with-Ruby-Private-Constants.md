@@ -19,7 +19,7 @@ User::NUMBER # => 100
 ```
 as expected, we are able to access the value of the constant `NUMBER`.
 
-Still, as I've said before, you should often not make them public. For that, we must use *private constants*.
+Still, as I've said before, you should often not make them public. For that, we must use **private constants**.
 
 With that in mind, you may be wondering if it’d be possible to simply declare the constant to be private. Well, that's unfortunately not the case:
 
@@ -38,7 +38,7 @@ User::NUMBER # => 100
 
 Bummer. It’s still accessible… So, what do we do?
 
-That's where *private_constant* comes up:
+That's where **private_constant** comes up:
 
 ```ruby
 class User
