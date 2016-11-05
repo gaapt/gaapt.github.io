@@ -6,8 +6,8 @@ title: Working with Ruby Private Constants
 One of the most common way to refactor your code is to extract a class. However, many times this class should not be used by anyone else but the module in which it is defined.
 
 Let's run some examples on irb:
+
 ```ruby
-# user.rb
 class User
  NUMBER = 100
 end
@@ -21,8 +21,8 @@ User::NUMBER # => 100
 In many cases, you should not make these constant publics. For that, we have to use private constants.
 
 You may be wondering if it’s not possible to just declare the constant to be private. Well, that's unfortunately not the case:
+
 ```ruby
-# user.rb
 class User
   private
   NUMBER = 100
@@ -40,7 +40,6 @@ Bummer. It’s still accessible… So, what do we do?
 That's where private_constant comes up:
 
 ```ruby
-# user.rb
 class User
   NUMBER = 100
   private_constant :NUMBER
