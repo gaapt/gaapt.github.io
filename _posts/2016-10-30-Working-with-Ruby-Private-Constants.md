@@ -56,4 +56,4 @@ User::NUMBER
 
 Nope. We've just made it that constant private! That’s it.
 
-As a rule of thumb, this is a good implementation whenever it's necessary to ensure a constant is an implementation detail and only meant to be used internally. 
+You may be wondering when you should use this. As a rule of thumb, this is a great implementation whenever it's necessary to ensure a constant is an implementation detail and only meant to be used internally. 
