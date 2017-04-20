@@ -21,5 +21,3 @@ Having worked both in frontend and backend systems, I have focused on Ruby on Ra
 + [Nice Projects](http://projmanagement.meteor.com/) - Project Management Meteor app
 + [clean-apiary](http://sumof.xyz/projects/clean-apiary.html) - A clean documentation theme
 
-### Want to ask something?
-Feel free to contact me at [gabrpt@gmail.com](mailto:gabrpt@gmail.com)
