@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Gabe,
+I'm Gabriel,
 
 I've been involved in several projects and assisted corporations and startups with software design, management and development.
 
