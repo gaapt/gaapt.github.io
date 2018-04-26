@@ -15,7 +15,7 @@ In doing so, both sides filter and deceive themselves against the ontological pr
 
 In the meanwhile, few and fortuitous engineers, aware of those feverish words or not, build and iterate, possessed by small yet brightful chunks of technic truth. And, in doing so, a small but further stage of technical evolution is reached.
 
-There exists no possibility of discussion of a path, of a better solution, of an answer to questions from a clearly distinct and distant phenomenology. At its level, technical development, as noted above, situates the intrinsic causality of matter for the sole extension of human capacity, independent from aesthetics, financial arbitrage, or any other fabricated purpose. 
+There exists no possibility of discussion of a path, of a better solution, of an answer to questions from a clearly distinct and distant phenomenology. At its level, technical development, situates the intrinsic causality of matter for the sole extension of human capacity, independent from aesthetics, financial arbitrage, or any other fabricated purpose. 
 
 There only exists the recognition of technology, at its own ontology, existence, historicity. 
 
