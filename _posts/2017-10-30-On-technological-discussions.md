@@ -21,7 +21,7 @@ There only exists the recognition of technology, at its own ontology, existence,
 
 There is analysis, acknoledgment, remembrance, embracement.
 
-Yet, there is no willfull strings or spades capable of forcing a given direction the autonomous and behemothic vehicle that rides itself.
+Yet, there is no willfull strings or spades capable of forcing a given direction to the autonomous and behemothic vehicle riding itself.
 
 And as such, technology is never an object of oneself.
 
