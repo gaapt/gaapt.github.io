@@ -5,7 +5,7 @@ title: On technological discussions
 
 Technology waves come and go, in an ever-lasting and self-reinforcing eternal return.
 
-Coupled with different shapes, bodies and ideas, the consequential and similarly perpetual schatological discussions never finds their path into quietly fading away.
+Coupled with different shapes, bodies and ideas, the consequential and similarly perpetual eschatological discussions never finds their path into quietly fading away.
 
 Sketched and shepard by the historicity, ideology and biological inclinations of the technologist, the deeds of such heated and controversial conversations indefinetely are the same: unavailing platitudes.
 
