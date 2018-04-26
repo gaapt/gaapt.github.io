@@ -19,9 +19,9 @@ There exists no possibility of discussion of a path, of a better solution, of an
 
 There only exists the recognition of technology, at its own ontology, existence, historicity. 
 
-There is recognition, analysis, acknoledgment, remembrance, embracement. Choose a word.
+There is analysis, acknoledgment, remembrance, embracement.
 
-But there is no willfull strings or spades capable of forcing a given direction the autonomous and behemothic vehicle that rides itself.
+Yet, there is no willfull strings or spades capable of forcing a given direction the autonomous and behemothic vehicle that rides itself.
 
 And as such, technology is never an object of oneself.
 
