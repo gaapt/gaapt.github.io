@@ -8,4 +8,4 @@ I'm Gabriel,
 
 I've been involved in several projects and assisted corporations and startups with software design, management and development.
 
-I currently work [@contentful](https://www.contentful.com/) helping awesome developers and companies build robust content infrastructures and applications.
+I currently work [@contentful](https://www.contentful.com/) helping talented developers and companies build robust content infrastructures and applications.
