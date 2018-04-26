@@ -3,8 +3,6 @@ layout: post
 title: On technological discussions
 ---
 
-On technological discussions
-
 Technology waves come and go, in an ever-lasting and self-reinforcing eternal return.
 
 Coupled with different shapes, bodies and ideas, the consequential and similarly perpetual schatological discussions never finds their path into quietly fading away.
