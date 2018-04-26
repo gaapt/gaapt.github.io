@@ -3,9 +3,11 @@ layout: post
 title: On technological discussions
 ---
 
-Technology waves come and go, in an ever-lasting and self-reinforcing eternal return.
+Technology battles and debates come and go, in an ever-lasting and self-reinforcing eternal return.
 
-Coupled with different shapes, bodies and ideas, the consequential and similarly perpetual eschatological discussions never finds their path into quietly fading away.
+Future of X. Why Y is the best. Why Z is the worst.
+
+Coupled with different shapes, bodies and ideas, the consequential and similarly perpetual eschatological discussions never find their path into silently fading away.
 
 Sketched and shepard by the historicity, ideology and biological inclinations of the technologist, the deeds of such heated and controversial conversations indefinetely are the same: unavailing platitudes.
 
